@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\specializedreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\specializedreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\salaryupdatereport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\salaryupdatereport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\salaryreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\salaryreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\positionreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\positionreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\employeesalaryreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F3C8AB6-6F8A-4F39-9B5B-7C15C475E74B}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\employeesalaryreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecializedReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SpecializedReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\SpecializedReport.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SpecializedReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\SpecializedReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T02:53:55.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryUpdateReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SalaryUpdateReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\SalaryUpdateReport.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SalaryUpdateReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\SalaryUpdateReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T02:53:23.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SalaryReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\SalaryReport.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\SalaryReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\SalaryReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T02:53:00.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PositionReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\PositionReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\PositionReport.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\PositionReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\PositionReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T02:52:15.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSalaryReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\EmployeeSalaryReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\EmployeeSalaryReport.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\EmployeeSalaryReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\EmployeeSalaryReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T02:51:49.257Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
